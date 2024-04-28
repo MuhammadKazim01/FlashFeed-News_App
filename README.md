@@ -26,7 +26,11 @@ To get started with FlashFeed-News_App, follow these simple steps:
 
 1. Clone the repository: https://github.com/MuhammadKazim01/FlashFeed-News_App.git
 2. Install dependencies: npm install
-3. Run the app: npm start
+3. go to: https://newsapi.org/
+4. Sign Up
+5. Get Your API Key
+6. Paste it in App.jsx file or in .env.local file
+7. Run the app: npm start
 
 ## Get Started:
 
